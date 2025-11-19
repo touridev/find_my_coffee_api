@@ -1,8 +1,8 @@
-![Logo of the project](https://github.com/OneBitCodeBlog/find-my-coffee-client/blob/master/src/assets/readme/logo-fmc-01.png)
+![Logo of the project](https://github.com/touridev/find_my_coffee_web/blob/master/src/assets/readme/logo-fmc-01.png)
 
 
 ## Find My Coffee Api
-Find My Coffee Api é o backend de um aplicativo FullStack. Ele te possibilita realizar toda a parte de lógica do app, realizado em Ruby, com o framework Rails!
+Find My Coffee API is the backend of a Full-Stack application. It allows you to handle all the app’s logic, built in Ruby using the Rails framework!
 
 
 ## Tecnologias 
@@ -27,32 +27,27 @@ Find My Coffee Api é o backend de um aplicativo FullStack. Ele te possibilita r
   - Ruby  
   - Rails
 
-* Para criar e migrar o BD do app.
+* To create and migrate the app’s database.
   - rake db:create db:migrate
   
-* Para instalar as gems.
+* To install the gems.
   - bundle install
   
-* Para iniciar o projeto.
+* To start the project.
   - rails s -p 3001
 
 
 ## Features
 
 As principais funções do app são:
- - Retornar estabelecimentos já avaliados.
- - Criar avaliações.
- - Retornar avaliações de um estabelecimento.
+ - Returning establishments that have already been reviewed.
+ - Creating reviews.
+ - Returning reviews for a specific establishment.
 
 
 ## Links
-  - Repository: https://github.com/OneBitCodeBlog/find-my-coffee
-    - Em casos de vulnerabilidades de segurança, bugs ou qualquer tipo de alerta, entre em contato com a nossa equipe. 
-      Nós valorizamos qualquer atitude para  melhora de segurança e qualidade de nosso repositório <3
+  - Repository: https://github.com/touridev/find_my_coffee_api
 
   ## Versioning
 
   1.0.0.0
-
-
-  Siga nosso Guithub e obrigado por estar com a gente! Bons códigos!
